@@ -1,1 +1,0 @@
-export{r as Mermaid}from"./dist-BRVLaqXg.js";
